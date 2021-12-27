@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const process = require('process');
 const sh = require('shelljs');
 const inquirer = require('inquirer');

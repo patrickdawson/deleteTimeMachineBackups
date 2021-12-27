@@ -2,7 +2,8 @@
   "name": "deletetimemachinebackups",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
+  "bin": "app.js",
   "scripts": {
     "start": "node app.js"
   },
