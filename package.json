@@ -7,9 +7,15 @@
   "scripts": {
     "start": "node app.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "macos",
+    "timemachine",
+    "backup",
+    "nodejs"
+  ],
+  "author": "Patrick Dawson",
+  "license": "MIT",
+  "homepage": "https://github.com/patrickdawson/deleteTimeMachineBackups#readme",
   "dependencies": {
     "commander": "^8.3.0",
     "inquirer": "^8.2.0",
